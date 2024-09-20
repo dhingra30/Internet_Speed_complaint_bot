@@ -8,13 +8,13 @@ CHROME_OPTIONS = webdriver.ChromeOptions()
 CHROME_OPTIONS.add_experimental_option("detach", True)
 
 # Speed thresholds
-DOWN_SPEED = 150  # Minimum expected download speed in Mbps
-UP_SPEED = 10  # Minimum expected upload speed in Mbps
+DOWN_SPEED = "YOUR CONTRACTUAL DOWNLOAD SPEED"  # Minimum expected download speed in Mbps
+UP_SPEED = "YOUR CONTRACTUAL UPLOAD SPEED"  # Minimum expected upload speed in Mbps
 
 # Twitter account credentials
-TWITTER_EMAIL = "rahul.techinnovations@gmail.com"
-TWITTER_PASSWORD = "Supernova@30"
-TWITTER_USERNAME = "@Rahuldhing42325"
+TWITTER_EMAIL = "EMAIL FOR TWITTER"
+TWITTER_PASSWORD = "TWITTER PASSWORD"
+TWITTER_USERNAME = "TWITTER USERNAME"
 
 
 class Bot:
