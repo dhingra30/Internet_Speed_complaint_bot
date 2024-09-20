@@ -61,10 +61,6 @@ python main.py
 - Ensure compliance with Twitter's automation policies when using bots.
 - The script opens a Chrome browser window and will not close automatically. Make sure to close it manually when done.
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Disclaimer
 
 Use this script responsibly and be mindful of your internet service provider's terms of service. Automating actions on Twitter may lead to account suspension if not done in compliance with their policies.
